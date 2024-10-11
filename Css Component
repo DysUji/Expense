@@ -1,0 +1,39 @@
+body {
+    font-family: Times New Roman, sans-serif;
+    background-color: #003366;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+ color: #ffffff;
+text-align: center;
+}
+
+label {
+ font-style: italic;
+ display: block;
+ margin-top: 10px;
+}
+
+input, button {
+    padding: 10px;
+    margin-top: 5px;
+    width: 100%
+    max-width: 400px;
+}
+
+table {
+    width: 100%
+    border-collaspe: collaspe;
+    margin-top: 20px;
+  }
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+th {
+ background-color: #eee;
+}

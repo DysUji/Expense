@@ -20,14 +20,13 @@ input, button {
     padding: 10px;
     margin-top: 5px;
     width: 100%
-    max-width: 400px;
+    max-width400px;
 }
 
 table {
     width: 100%
-    border-collaspe: collaspe;
-    margin-top: 20px;
-  }
+    border-collaspe collaspe;
+    margin-top: 20px; }
 
 th, td {
     border: 1px solid #ccc;
